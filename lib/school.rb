@@ -1,5 +1,5 @@
 # code here!
 class School 
-  attr_accessor :model
+  attr_accessor :school
   
 end 
