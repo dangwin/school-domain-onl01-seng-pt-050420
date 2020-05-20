@@ -1,6 +1,5 @@
 # code here!
 class School 
-  au
-  
+  attr_accessor :school
   
 end 
