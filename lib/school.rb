@@ -1,5 +1,15 @@
 # code here!
 class School 
-  attr_accessor :school
+  
+  def initialize(name)
+    @name = name
+    @roser = {}
+  end 
+  
+  def roster 
+    @roster 
+    
+  end 
+  
   
 end 
