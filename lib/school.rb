@@ -31,3 +31,4 @@ class School
       
     end 
 
+end 
